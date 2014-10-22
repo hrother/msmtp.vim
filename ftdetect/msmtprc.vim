@@ -1,1 +1,1 @@
-au BufNewFile,BufRead *.msmtprc set filetype=msmtp
+au BufNewFile,BufRead .msmtprc set filetype=msmtp
